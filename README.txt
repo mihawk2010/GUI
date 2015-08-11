@@ -1,2 +1,1 @@
-图形用户就是好
-好难玩！
+This is the world!
